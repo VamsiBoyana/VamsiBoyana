@@ -47,13 +47,12 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VamsiBoyana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Vamsi's GitHub stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VamsiBoyana&theme=tokyonight" alt="GitHub Streak" height="180px" />
-</p>
+| GitHub Metrics | Most Used Languages |
+| :---: | :---: |
+| <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=VamsiBoyana&show_icons=true&theme=tokyonight" height="185px" /> | <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VamsiBoyana&layout=compact&theme=tokyonight" height="185px" /> |
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VamsiBoyana&layout=compact&theme=tokyonight" alt="Top Langs" height="180px" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VamsiBoyana&theme=tokyonight" width="100%" />
 </p>
 
 ---
