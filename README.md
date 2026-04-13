@@ -49,11 +49,9 @@
 ### 📊 GitHub Stats
 | GitHub Metrics | Most Used Languages |
 | :---: | :---: |
-| <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=VamsiBoyana&show_icons=true&theme=tokyonight" height="185px" /> | <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VamsiBoyana&layout=compact&theme=tokyonight" height="185px" /> |
+| <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=VamsiBoyana&show_icons=true&theme=tokyonight" height="150px" /> | <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VamsiBoyana&layout=compact&theme=tokyonight" height="150px" /> |
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VamsiBoyana&theme=tokyonight" width="100%" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VamsiBoyana&theme=tokyonight&hide_border=true" width="100%" height="150px" />
 
 ---
 
