@@ -47,8 +47,10 @@
 ---
 
 ### 📊 GitHub Stats
-![Vamsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=VamsiBoyana&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VamsiBoyana&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=VamsiBoyana&show_icons=true&theme=tokyonight" alt="Vamsi's GitHub stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VamsiBoyana&layout=compact&theme=tokyonight" alt="Top Langs" height="180px" />
+</p>
 
 ---
 
